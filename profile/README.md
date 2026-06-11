@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.jpg" alt="VOXEL group" width="100%"/>
+<img src="banner.jpg" alt="VOXEL group" width="85%"/>
 
 
 **Voxel's Tango Control System device servers for experimental physics instrumentation**
