@@ -1,6 +1,6 @@
 # Golp-Voxel
 
-This organization hosts **Tango Control System device servers** for laboratory instruments used in experimental physics. Each repository is an independent Python device server (PyTango) that exposes a physical instrument to the Tango ecosystem, enabling remote control, logging, and integration with experiment automation.
+This organization hosts **Tango Control System device servers** for laboratory instruments used in experimental physics at the [**VOXEL group — IPFN, Instituto Superior Técnico**](https://www.ipfn.tecnico.ulisboa.pt/voxel). Each repository is an independent Python device server (PyTango) that exposes a physical instrument to the Tango ecosystem, enabling remote control, logging, and integration with experiment automation.
 
 > New to Tango? See [**HowTo**](https://github.com/Golp-Voxel/HowTo) for installation guides and experiment examples.
 
