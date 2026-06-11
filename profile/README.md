@@ -2,9 +2,8 @@
 
 <img src="banner.jpg" alt="VOXEL group" width="100%"/>
 
-# Golp-Voxel
 
-**Tango Control System device servers for experimental physics instrumentation**
+**Voxel's Tango Control System device servers for experimental physics instrumentation**
 
 [![VOXEL Group — IPFN, IST](https://img.shields.io/badge/VOXEL%20Group-IPFN%20%7C%20IST-blue?style=for-the-badge)](https://www.ipfn.tecnico.ulisboa.pt/voxel)
 [![Tango Controls](https://img.shields.io/badge/Tango%20Controls-device%20servers-orange?style=for-the-badge)](https://www.tango-controls.org/)
