@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="banner.jpg" alt="VOXEL group" width="100%"/>
+
 # Golp-Voxel
 
 **Tango Control System device servers for experimental physics instrumentation**
